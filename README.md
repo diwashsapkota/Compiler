@@ -6,6 +6,6 @@ Simplified Example of all the major pieces of modern compiler. The compiler take
 - copy
 
 # References: 
-https://github.com/jamiebuilds/the-super-tiny-compiler
-https://www.youtube.com/watch?v=jeOU6KJFi8c&feature=youtu.be
+- https://github.com/jamiebuilds/the-super-tiny-compiler
+- https://www.youtube.com/watch?v=jeOU6KJFi8c&feature=youtu.be
 
