@@ -1,5 +1,5 @@
 # Compiler
-Simplified Example of all the major pieces of modern compiler. The compiler takes an input statement in LISP and converts it into C. 
+This project contains simplified example of all the major pieces of modern compiler. The compiler takes an input statement in LISP and converts it into C. 
 
 # Dependencies
 - re
